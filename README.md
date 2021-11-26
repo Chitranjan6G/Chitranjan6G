@@ -1,16 +1,34 @@
-### Hi there 👋
+[<h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Chitranjan</h2>](https://t.me/Chitranjan6G)
 
-<!--
-**Chitranjan6G/Chitranjan6G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me :
+- I make bots for personal use only.
+- Bots (Python - Pyrogram & Telethon)
 
-Here are some ideas to get you started:
+- I developes websites too.
+- Websites (HTML, CSS, PHP, JavaScript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Chitranjan](https://t.me/Chitranjan6G)
+
+
+![](https://github-readme-stats.vercel.app/api?username=Chitranjan6G&theme=vue-dark&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitranjan6G&theme=vue-dark&layout=compact&card_width=445&show_icons=true&count_private=true)
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chitranjan6G&theme=vue-dark&show_icons=true&count_private=true&" alt="Chitranjan6G" /></p>
+
+
+### Follow on :
+[![Chitranjan](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
+[![Chitranjan](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
+[![Chitranjan](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
+[![Chitranjan](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
+
+
+
+[twitter]: https://twitter.com/Chitranjan6G
+[instagram]: https://instagram.com/Chitranjan6G
+[telegram]: https://t.me/Chitranjan6G
+[facebook]: https://www.facebook.com/chitranjanmahto.mahto.5
