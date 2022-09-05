@@ -1,10 +1,10 @@
-[<h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Chitranjan</h2>](https://t.me/Chitranjan6G)
+[<h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>](https://t.me/Chitranjan6G)
 
 ### About Me :
 
-- I develop Nothing 😂.
-
 - [Chitranjan](https://t.me/Chitranjan6G)
+
+- I develop Nothing 😂.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Chitranjan6G&theme=vue-dark&show_icons=true&count_private=true)
