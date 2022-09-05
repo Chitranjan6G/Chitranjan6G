@@ -1,11 +1,8 @@
 [<h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Chitranjan</h2>](https://t.me/Chitranjan6G)
 
 ### About Me :
-- I make bots for personal use only.
-- Bots (Python - Pyrogram & Telethon)
 
-- I developes websites too.
-- Websites (HTML, CSS, PHP, JavaScript)
+- I develop Nothing 😂.
 
 - [Chitranjan](https://t.me/Chitranjan6G)
 
