@@ -27,5 +27,5 @@
 
 [twitter]: https://twitter.com/Chitranjan6G
 [instagram]: https://instagram.com/Chitranjan6G
-[telegram]: https://t.me/Chitranjan6G
+[telegram]: https://telegram.me/Chitranjan6G
 [facebook]: https://www.facebook.com/chitranjanmahto.mahto.5
