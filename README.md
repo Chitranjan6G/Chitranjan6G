@@ -4,7 +4,7 @@
 
 - [Chitranjan](https://t.me/Chitranjan6G)
 
-- I develop Nothing 😂.
+- A Hobbyist Developer 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Chitranjan6G&theme=vue-dark&show_icons=true&count_private=true)
