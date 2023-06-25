@@ -2,11 +2,10 @@
 
 ### About Me :
 
-- [Chitranjan](https://t.me/Chitranjan6G)
-
-- A Hobbyist Developer 
-
-
+- [Chitranjan](https://t.me/Chitranjan6G): A Hobbyist Developer.
+- I enjoy playing around with computer programming as a Hobby. 
+- As a personal project in my spare time, I pursue it because I find it interesting and enjoyable.
+ 
 ![](https://github-readme-stats.vercel.app/api?username=Chitranjan6G&theme=vue-dark&show_icons=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitranjan6G&theme=vue-dark&layout=compact&card_width=445&show_icons=true&count_private=true)
